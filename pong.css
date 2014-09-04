@@ -4,7 +4,10 @@
 
 #info{
 	display:inline-block;
-	position: relative;
-    top: -500px;
+    vertical-align: top;
+}
+
+#info h2 {
+    margin-top: 10px;
 }
 
